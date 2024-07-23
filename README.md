@@ -15,7 +15,7 @@ virtualenv .venv
 2.
 for windows :
 ```cmd
-virtualenv .venv
+.\.venv\Scripts\activate
 ```
 for linux
 ```cmd
