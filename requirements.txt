@@ -1,5 +1,6 @@
 websocket-client
 python-dotenv
+pyinstaller
 line-bot-sdk
 tornado
 flask
