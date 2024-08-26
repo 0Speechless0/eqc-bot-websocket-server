@@ -54,6 +54,10 @@ python start.py
 | /chat | websocket訊息測試網頁 |
 | / | websocket位址 |
 
+### 發佈檔案(位置:./dist)
+``` cmd
+pyinstaller _Main.spec
+```
 ### 部屬 (windows 10 + IIS)
 1. 安裝必要程式 :  
    1. URL ReWrite  
